@@ -1,0 +1,26 @@
+@media (max-width: 768px) {
+  body {
+    width: 100%;
+  }
+  p {
+    background-color: chartreuse;
+    border: solid black .1px;
+    text-align: center;
+    align-items: center;
+    /* padding-top: 5%; */
+    /* margin: auto; */
+  }
+ 
+}
+
+@media (min-width: 768px){
+ 
+  p {
+    background-color: darkgoldenrod;
+    border: solid black .1px;
+    text-align: center;
+    align-items: center;
+    /* padding-top: 5%; */
+    /* margin: auto; */
+  }
+}
