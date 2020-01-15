@@ -10,7 +10,37 @@
     /* padding-top: 5%; */
     /* margin: auto; */
   }
+  #a {
+    background-color: blanchedalmond;
+  }
+
+  #b{
+    background-color: blue;
+  }
+
+  #c{
+    background-color: blueviolet;
+  }
  
+  #d{
+    background-color: brown;
+  }
+
+  #e{
+    background-color: burlywood;
+  }
+
+  #f{
+    background-color: cadetblue;
+  }
+
+  #g{
+    background-color: chartreuse;
+  }
+
+  #h{
+    background-color: chocolate;
+  }
 }
 
 @media (min-width: 768px){
@@ -23,4 +53,37 @@
     /* padding-top: 5%; */
     /* margin: auto; */
   }
+
+  #a {
+    background-color: blanchedalmond;
+  }
+
+  #b{
+    background-color: coral;
+  }
+
+  #c{
+    background-color: cornflowerblue;
+  }
+ 
+  #d{
+    background-color: cornsilk;
+  }
+
+  #e{
+    background-color: crimson;
+  }
+
+  #f{
+    background-color: cyan;
+  }
+
+  #g{
+    background-color: darkgray;
+  }
+
+  #h{
+    background-color: darkgreen;
+  }
+
 }
